@@ -1,0 +1,17 @@
+C:\Users\freeb\Desktop\repos\KanyeWest\bin\Debug\net6.0\KanyeWest.exe
+C:\Users\freeb\Desktop\repos\KanyeWest\bin\Debug\net6.0\KanyeWest.deps.json
+C:\Users\freeb\Desktop\repos\KanyeWest\bin\Debug\net6.0\KanyeWest.runtimeconfig.json
+C:\Users\freeb\Desktop\repos\KanyeWest\bin\Debug\net6.0\KanyeWest.dll
+C:\Users\freeb\Desktop\repos\KanyeWest\bin\Debug\net6.0\KanyeWest.pdb
+C:\Users\freeb\Desktop\repos\KanyeWest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\freeb\Desktop\repos\KanyeWest\obj\Debug\net6.0\KanyeWest.csproj.AssemblyReference.cache
+C:\Users\freeb\Desktop\repos\KanyeWest\obj\Debug\net6.0\KanyeWest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freeb\Desktop\repos\KanyeWest\obj\Debug\net6.0\KanyeWest.AssemblyInfoInputs.cache
+C:\Users\freeb\Desktop\repos\KanyeWest\obj\Debug\net6.0\KanyeWest.AssemblyInfo.cs
+C:\Users\freeb\Desktop\repos\KanyeWest\obj\Debug\net6.0\KanyeWest.csproj.CoreCompileInputs.cache
+C:\Users\freeb\Desktop\repos\KanyeWest\obj\Debug\net6.0\KanyeWest.csproj.CopyComplete
+C:\Users\freeb\Desktop\repos\KanyeWest\obj\Debug\net6.0\KanyeWest.dll
+C:\Users\freeb\Desktop\repos\KanyeWest\obj\Debug\net6.0\refint\KanyeWest.dll
+C:\Users\freeb\Desktop\repos\KanyeWest\obj\Debug\net6.0\KanyeWest.pdb
+C:\Users\freeb\Desktop\repos\KanyeWest\obj\Debug\net6.0\KanyeWest.genruntimeconfig.cache
+C:\Users\freeb\Desktop\repos\KanyeWest\obj\Debug\net6.0\ref\KanyeWest.dll
